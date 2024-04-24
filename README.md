@@ -1,6 +1,6 @@
 # NLW Expert Rocketseat - 2024 - Criador de TAGS
 
-##DESCRIÇÃO DO PROJETO
+## DESCRIÇÃO DO PROJETO
 
 Nosso projeto é uma aplicação web desenvolvida em Python com Flask, visando simplificar a criação de tags para produtos. Utilizando tecnologias como Pylint e Pytest, garantimos a qualidade e confiabilidade do código, enquanto o Flask nos permite construir uma interface web intuitiva para os usuários.
 
